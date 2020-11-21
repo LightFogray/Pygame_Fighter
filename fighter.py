@@ -490,6 +490,3 @@ while not game_over:
         pygame.display.flip()
 #玩家最终得分：
 print("您的最终得分为：{}".format(player.score))
-#待添加功能：吃补给后的音效
-#尝试改变主页背景图片
-#其余图片仍有不完善
